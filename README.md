@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @juldyzmurat
-- 👀 I’m interested in Data Science and Machine Leanring
-- 🌱 I’m currently learning Machine Learning techniques 
-- 💞️ I’m looking to collaborate on any interesting projects
+Data Science major aiming to make impact through ML, Software Development, and Impact Research 
 
 <!---
 juldyzmurat/juldyzmurat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
